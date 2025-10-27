@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Emir Zecovic"
+title                    : "Homepage of Emir Zecovic"
 title_separator          : "-"
 name                     : &name "Emir Zecovic"
 description              : &description "Sociologist"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Emir Zecovic"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Researcher (PhD student)"
+  bio              : "Junior Researcher (PhD student) at the Federal Institute for Population Research (BiB)"
   location         : "Wiesbaden, DE"
-  employer         : "Federal Institute for Population Research (BiB)"
+  employer         : "Federal Institute for <br> Population Research (BiB)"
   uri              : # URL
   email            : #"none@example.org" 
 
